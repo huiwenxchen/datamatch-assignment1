@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+    color:#473C38;
+    text-align: justify;
+}
+
+.Description {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+
+}
+
+.Description img{
+    display: block;
+  	margin-left: auto;
+ 	margin-right: auto;    
+    border-radius: 10%;
+    height: 150px;
+    width: 150px;
+}
+
+.Description_flex{
+    margin: 50px;
+}
+
+
+
+
